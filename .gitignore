@@ -1,7 +1,27 @@
+# Build artifacts (rigenerati ad ogni build)
+output/
+fsh-generated/
+template/
+input-cache/
+temp/
+translations/
+
+# Cache locali e log
+.fhir/
+*.log
+fhir-ig-publisher-tmp.log
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
 .DS_Store
 Thumbs.db
-/fsh-generated
-/input-cache
-/output
-/temp
-/template
+
+# Java
+*.class
+
+# Eventuali file Ruby/Jekyll locali
+.jekyll-cache/
+.bundle/
+vendor/
