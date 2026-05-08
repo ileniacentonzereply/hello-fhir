@@ -1,0 +1,20 @@
+# hello.fhir#0.1.0: null(en)
+
+## Pages
+
+* [Home](en/index.md)
+* [Artifacts Summary](en/artifacts.md)
+
+## Resources
+
+### Resource Profiles
+
+* [MyPatient](en/StructureDefinition-MyPatient.md)
+
+### ImplementationGuides
+
+* [HelloFHIR](en/ImplementationGuide-hello.fhir.md)
+
+### Examples
+
+* [PatientExample (Patient)](en/Patient-PatientExample.md)

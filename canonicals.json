@@ -1,0 +1,14 @@
+[{
+  "id" : "hello.fhir",
+  "type" : "ImplementationGuide",
+  "url" : "http://example.org/fhir/r4/hello/ImplementationGuide/hello.fhir",
+  "version" : "0.1.0",
+  "name" : "HelloFHIR"
+},
+{
+  "id" : "MyPatient",
+  "type" : "StructureDefinition",
+  "url" : "http://example.org/fhir/r4/hello/StructureDefinition/MyPatient",
+  "version" : "0.1.0",
+  "name" : "MyPatient"
+}]
